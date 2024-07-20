@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<code><post>1234</post><uname>Admin</uname><boxU>1</boxU><boxT>tets</boxT><boxU>1</boxU><boxT>urldecode(basename($_SERVER['QUERY_STRING']))</boxT></code>
